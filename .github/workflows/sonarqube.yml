@@ -27,5 +27,5 @@ jobs:
           SONAR_HOST_URL: https://sonarcloud.io
         with:
           args: >
-            -Dsonar.projectKey=YOUR_PROJECT_KEY
-            -Dsonar.organization=YOUR_ORGANIZATION_KEY
+            -Dsonar.projectKey=Muhammad-Haider-Mughal_SmogShield
+            -Dsonar.organization=muhammad-haider-mughal
